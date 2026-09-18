@@ -1,7 +1,6 @@
 # expo-dynamic-notifications
 
-Gooey, **Dynamic Island–style** in-app notifications for React Native. Notifications pour out of the island as a liquid droplet and morph into a card.
-
+Gooey, **Dynamic Island–style** in-app notifications for React Native.
 ---
 
 ## ⚙️ Installation
