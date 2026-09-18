@@ -1,6 +1,7 @@
 # expo-dynamic-notifications
 
 **Dynamic Island–style** in-app notifications for React Native.
+
 ---
 
 ## ⚙️ Installation
