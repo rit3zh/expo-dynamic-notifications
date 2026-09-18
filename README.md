@@ -78,7 +78,7 @@ export function Example() {
 
 ## Preview
 
-<!-- drop your preview video link here -->
+https://github.com/user-attachments/assets/9c38cf28-fa30-40cc-ac24-518a85f9a055
 
 ### Controlling duration
 
